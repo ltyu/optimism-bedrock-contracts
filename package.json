@@ -1,0 +1,9 @@
+{
+  "name": "@succinctlabs/optimism-bedrock-contracts",
+  "version": "1.0.0",
+  "description": "Library contracts created by Optimism, used by Succinct",
+  "main": "index.js",
+  "repository": "https://github.com/succinctlabs/optimism-bedrock-contracts.git",
+  "license": "MIT",
+  "private": true
+}
